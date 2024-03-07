@@ -1,0 +1,147 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 654px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 908px;
+  margin: 56px auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 542px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-style: normal;
+  font-size: 1.25rem;
+  line-height: 2;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0 0 0 -23px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 542px;
+  background-image: url("images/channels4_profile.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 1;
+  text-transform: uppercase;
+  margin: 0 23px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 582px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 526px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 414px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 414px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    margin-top: 366px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 335px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 4.5rem;
+    width: auto;
+    margin-top: 0;
+    margin-left: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 894px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 406px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+    margin-top: 358px;
+    margin-left: 0;
+  }
+}
