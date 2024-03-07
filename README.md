@@ -1,0 +1,1 @@
+This is used to host the About Me Website for Colton Dog Portaits. I created this using NicePage because I am a lazy developer, and I had a license key so why not. (I am still learning HTML, but at a very slow pace due to the countless projects)
